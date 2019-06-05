@@ -4,8 +4,11 @@ Prerequisite
 
 Eclipse
 Apache Tomcat 7
+
 Maven
+
 Copy the given settings.xml to C:/Users/XXX/.m2/
+
 Working internet connection for the maven to download all dependencies
 
 
