@@ -51,9 +51,9 @@ function isValidFileFormat(e) {
 </script>
 </head>
 <body><br/><br/>
-<p align="center"><img src="/PayGenerator/images/myobLogo.jpg" /></p><br/><br/>
+<p align="center"></p><br/><br/>
 <table border=3><tr><td align="center">
-<h2>Welcome to MYOB Payroll System</h2>
+<h2>Welcome to Payroll System</h2>
 <br/><br/> 
 <form method="post" action="generatePayslips" onsubmit="return isValidFileFormat(event)">
 	<font size=4>Input file with employee details: </font><br/><br/>
@@ -62,7 +62,7 @@ function isValidFileFormat(e) {
 </form>
 
 <br/><br/>
-<font size=2.5>Copyright © 2019 <u>MYOB Technology</u> Pty Ltd. All rights reserved.</font><br/><br/>
+<font size=2.5>Copyright Â© 2019 <u>MYOB Technology</u> Pty Ltd. All rights reserved.</font><br/><br/>
 </td>
 </tr>
 </table>
